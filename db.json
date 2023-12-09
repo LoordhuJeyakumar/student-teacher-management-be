@@ -1,0 +1,46 @@
+{
+    "studentDetails":
+        [
+            {
+                
+            "fullName": "David Johns",
+            "address": {
+              "address": "570 Hand Parks",
+              "city": "Amalāpuram",
+              "state": "Tamil Nadu",
+              "pincode": "713325"
+            },
+            "id": 1,
+            "parentPhone": "0335640279",
+            "doa": "2020-12-10",
+            "dob":"2000-06-01",
+            "parentEmail": "David_Johns@hotmail.com",
+            "parentName":"john",
+            "currentClass":10,
+            "isOnline": true
+            }
+        ],
+    "teacherDetails":[
+{
+    "fullName": "David Johns",
+    "address": {
+      "address": "570 Hand Parks",
+      "city": "Amalāpuram",
+      "state": "Tamil Nadu",
+      "pincode": "713325"
+    },
+    "id": 1,
+    "phone": "0335640279",
+    "doj": "2020-12-10",
+    "email": "David_Johns@hotmail.com",
+    "qualification": "B.Ed",
+    "coreSubject": "Social science",
+    "teachingSubjects": ["English", "Maths"],
+    "salary": 5501,
+    "isClassTeacher": false,
+    "assignedClass": null,
+    "isOnline": true
+}
+    ]
+    
+}
